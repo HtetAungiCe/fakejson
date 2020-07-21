@@ -1,0 +1,100 @@
+{
+	"id": 24,
+	"payType": "CASH",
+	"taxType": "ADD_ON",
+	"saleType": "DINE_IN",
+	"netAmount": 0,
+	"payChange": 0,
+	"totalAmount": 0,
+	"discountAmount": 0,
+	"receivedAmount": 0,
+	"taxAmount": 0,
+	"shopId": 1,
+	"tableId": 2,
+	"saleStatus": "PENDING",
+	"shiftAssignDetailId": 2,
+	"saleItems": [{
+			"id": 65,
+			"menuId": 5,
+			"parentId": "",
+			"key": "gKey0",
+			"parentKey": "",
+			"qty": 1,
+			"unitPrice": 0,
+			"saleDetailStatus": "CANCEL",
+			"isFOC": false
+		},
+		{
+			"id": 66,
+			"menuId": 5,
+			"parentId": 5,
+			"key": "",
+			"parentKey": "gKey0",
+			"qty": 1,
+			"saleDetailStatus": "CANCEL",
+			"unitPrice": 0
+		},
+		{
+			"id": 67,
+			"menuId": 4,
+			"parentId": "",
+			"key": "gKey1",
+			"parentKey": "",
+			"qty": 1,
+			"unitPrice": 1500,
+			"saleDetailStatus": "PENDING",
+			"isFOC": false
+		},
+		{
+			"id": 68,
+			"menuId": 1,
+			"parentId": 4,
+			"key": "",
+			"parentKey": "gKey1",
+			"qty": 1,
+			"saleDetailStatus": "PENDING",
+			"unitPrice": 0
+		},
+		{
+			"id": 69,
+			"menuId": 2,
+			"parentId": 4,
+			"key": "",
+			"parentKey": "gKey1",
+			"qty": 1,
+			"saleDetailStatus": "PENDING",
+			"unitPrice": 0
+		},
+		{
+			"id": 70,
+			"menuId": 3,
+			"parentId": "",
+			"key": "gKey2",
+			"parentKey": "",
+			"qty": 1,
+			"unitPrice": 10000,
+			"saleDetailStatus": "PENDING",
+			"isFOC": false
+		},
+		{
+			"id": 71,
+			"menuId": 1,
+			"parentId": 3,
+			"key": "",
+			"parentKey": "gKey2",
+			"qty": 1,
+			"saleDetailStatus": "PENDING",
+			"unitPrice": 0
+		},
+		{
+			"id": 72,
+			"menuId": 2,
+			"parentId": 3,
+			"key": "",
+			"parentKey": "gKey2",
+			"qty": 1,
+			"saleDetailStatus": "PENDING",
+			"unitPrice": 0
+		}
+	]
+}
